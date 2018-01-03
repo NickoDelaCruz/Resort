@@ -1,15 +1,15 @@
 h1 {
   color:;
-  text-align: ;
+  text-align: center;
 }
 
 h2 {
-  text-align: ;
-  color: ;
+  text-align: center;
+  color: #6dd8db;
 }
 
 p {
-  text-align: ;
+  text-align:center;
   font-size:
   color: ;
 }
@@ -19,5 +19,5 @@ img {
   margin: auto;
 }
 body {
-  background-color: ;
+  background-color: #a4fff4;
 }
